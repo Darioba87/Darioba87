@@ -38,4 +38,5 @@ Github • Docker
 
 - 🌍 [dbawebtech.eu](https://dbawebtech.eu)
 - 💼 [LinkedIn](linkedin.com/in/dario-brito-alvarez-a869b12b0)
-- ✉️ [Mail](brito@dbawebtech.eu)
+- ✉️ [Mail](mailto:brito@dbawebtech.eu)
+
