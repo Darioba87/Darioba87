@@ -1,16 +1,41 @@
-## Hi there 👋
+# [Dario Brito Alvarez](https://dwawebtech.eu) - Webentwickler & Webdesigner.
 
-<!--
-**Darioba87/Darioba87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Dario Brito Alvarez - Webentwickler & Webdesigner.](./assets/github-header-banner.png)
 
-Here are some ideas to get you started:
+[![LinkedIn](./assets/linkedin-svgrepo-com(1).svg)](linkedin.com/in/dario-brito-alvarez-a869b12b0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, ich bin Dario👋
+
+<p align="center">
+  <img src="./assets/dario-brito-alvarez-cartoon-final.webp" width="300" alt="Dario Brito Alvarez Cartoon" />
+</p>
+
+<p>
+  Ich arbeite mit Agenturen und Unternehmen zusammen, um performante, skalierbare und benutzerfreundliche Lösungen zu entwickeln.  
+  Mein Ansatz: <strong>Design trifft Performance</strong> – klare Struktur, hohe Ladegeschwindigkeit und saubere Codebasis.  
+  Ich bin ein <em>leidenschaftlicher Full-Stack-Entwickler</em> mit Fokus auf Webdesign, SEO und moderne Web-Apps.
+</p>
+
+> 💡 „Ich baue nicht nur Software – ich baue Lösungen, die Ideen voranbringen.“
+
+## 🧰 Stacks
+
+**Lenguajes:**  
+Javascrtip , PHP , CSS, Markdown
+
+**Frameworks & Librerías:**  
+Angular • Astro • React
+
+**CMS / Headless CMS:**  
+WordPress • Directus • Strapi • Payload
+
+**Infraestructura & DevOps:**  
+Github • Docker
+
+
+
+## 🌐 Conecta conmigo
+
+- 🌍 [dbawebtech.eu](https://dbawebtech.eu)
+- 💼 [LinkedIn](linkedin.com/in/dario-brito-alvarez-a869b12b0)
+- ✉️ [Mail](brito@dbawebtech.eu)
